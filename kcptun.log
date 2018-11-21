@@ -1,0 +1,18 @@
+2018/11/22 00:12:39 version: 20181114
+2018/11/22 00:12:39 initiating key derivation
+2018/11/22 00:12:39 listen udp :2333: bind: address already in use
+net.ListenUDP
+github.com/xtaci/kcp-go.ListenWithOptions
+	/Users/xtaci/go/src/github.com/xtaci/kcp-go/sess.go:899
+main.main.func1
+	/Users/xtaci/go/src/github.com/xtaci/kcptun/server/main.go:342
+github.com/urfave/cli.HandleAction
+	/Users/xtaci/go/src/github.com/urfave/cli/app.go:501
+github.com/urfave/cli.(*App).Run
+	/Users/xtaci/go/src/github.com/urfave/cli/app.go:268
+main.main
+	/Users/xtaci/go/src/github.com/xtaci/kcptun/server/main.go:396
+runtime.main
+	/usr/local/go/src/runtime/proc.go:201
+runtime.goexit
+	/usr/local/go/src/runtime/asm_amd64.s:1333

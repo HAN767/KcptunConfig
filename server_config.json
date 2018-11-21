@@ -1,0 +1,7 @@
+{
+    "listen": "103.44.61.32:29900",
+    "target": "127.0.0.1:13271",
+    "crypt": "aes",
+    "mode": "fast2",
+    "autoexpire": 60
+}

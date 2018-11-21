@@ -1,0 +1,15 @@
+{
+    // "localaddr": "127.0.0.1:1080",
+    // "remoteaddr": "*.*.*.*:29900", //Kcptun Server 默认端口
+    // "crypt": "aes",
+    // "mode": "fast2",
+    // "autoexpire": 60,
+    
+     "localaddr": "127.0.0.1:13271",
+     "remoteaddr": "103.44.61.32:28800",
+     "model": "fast2",
+     "nocomp": false,
+     "acknodelay": false,
+     "nc": 0,
+     "nodelay": 0
+}
