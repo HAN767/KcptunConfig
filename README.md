@@ -81,6 +81,7 @@ ps aux | grep -v grep | grep -i darwin
 
 * 将SS指向刚刚创建的服务  
 
-<img src="http://p0fjq92nc2.bkt.clouddn.com/18-11-22/61189423.jpg" width="500" hegiht="313" align=center />
+<img src="http://p0fjq92nc2.bkt.clouddn.com/18-11-22/61189423.jpg" width="500" hegiht="313" align=center />  
+
 
 * OK  访问下youtube
