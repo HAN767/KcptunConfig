@@ -1,6 +1,6 @@
 {
-  "listen": ":29900",
-  "target": "103.44.61.32:13271",
+  "localaddr": ":13271",
+  "remoteaddr": "127.0.0.1:29900",
   "key": "test",
   "crypt": "aes",
   "mode": "fast2",
@@ -11,6 +11,5 @@
   "parityshard": 3,
   "dscp": 0,
   "nocomp": false,
-  "quiet": false,
-  "pprof": false
+  "quiet": false
 }
